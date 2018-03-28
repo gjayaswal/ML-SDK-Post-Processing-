@@ -1,0 +1,15 @@
+{
+  "input_path":"path/to/folder/with/documents/to/obfuscate",
+  "output_path":"path/to/folder/to/collect/obfuscated/documents",
+  "tag_replacement":{
+    "lob":"Fake LOB",
+    "insured_name":"FAKE Insured Name",
+    "loss_date":"01/01/2019",
+    "total_incured":"$99.99",
+    "valuation_date":"01/01/2020",
+    "no_loss_reported":"FAKE no loss reported"
+  },
+  "regex_replacement":{
+    "\\d": "Ⅰ"
+  }
+}

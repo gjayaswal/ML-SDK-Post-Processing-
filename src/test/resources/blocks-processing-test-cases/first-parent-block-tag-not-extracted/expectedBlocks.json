@@ -1,0 +1,58 @@
+[
+  {
+    "company_name": "Some company LLC",
+    "loss_date": "01/01/2018",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  },
+  {
+    "lob": "LOB2",
+    "company_name": "Some company LLC",
+    "loss_date": "01/01/2018",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  },
+  {
+    "lob": "LOB3",
+    "company_name": "Some company LLC",
+    "loss_date": "01/01/2018",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  }
+]

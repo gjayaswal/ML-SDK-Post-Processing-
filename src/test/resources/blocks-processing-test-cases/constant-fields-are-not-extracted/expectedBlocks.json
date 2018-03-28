@@ -1,0 +1,53 @@
+[
+  {
+    "lob": "LOB1",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  },
+  {
+    "lob": "LOB2",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  },
+  {
+    "lob": "LOB3",
+    "claims": [
+      {
+        "amount": "1",
+        "claim_name": "1"
+      },
+      {
+        "amount": "2",
+        "claim_name": "2"
+      },
+      {
+        "amount": "3",
+        "claim_name": "3"
+      }
+    ]
+  }
+]

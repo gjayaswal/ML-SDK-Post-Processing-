@@ -1,0 +1,110 @@
+"submissionUUID","document_link_tagged","document_link_blocks","loss_date","lob","company_name","group","amount","claim_name","amount confidence","company_name confidence","claim_name confidence","document_link_blocks confidence","document_link_tagged confidence","loss_date confidence","lob confidence","group confidence","amount accuracy","company_name accuracy","claim_name accuracy","document_link_blocks accuracy","document_link_tagged accuracy","loss_date accuracy","lob accuracy","group accuracy","document_link"
+"2dbe6668-d2c9-4805-ade1-b9494f46b1c2","<html>
+<p>This is Loss run</p>
+<p>Date: <loss_date blocknumber=""0"" data-value=""01/01/2018"" constant=""true"" score=""1.0"">01/01/2018</loss_date></p>
+<p>Name: <company_name data-value=""Some company LLC"" constant=""true"" score=""1.0"">Some company LLC</company_name>.</p>
+<p><lob blocknumber=""0"" data-value=""LOB1""  score=""1.0"">LOB1</lob></p>
+<ul>
+<li>Claim <claim_name blocknumber=""0"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</claim_name><br /> Amount <amount blocknumber=""0"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</amount></li>
+<li>Claim <claim_name blocknumber=""0"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</claim_name><br /> Amount <amount blocknumber=""0"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</amount></li>
+<li>Claim <claim_name blocknumber=""0"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</claim_name><br /> Amount <amount blocknumber=""0"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</amount></li>
+</ul>
+<p><lob blocknumber=""1"" data-value=""LOB2""  score=""1.0"">LOB2</lob></p>
+<ul>
+<li>Claim <claim_name blocknumber=""1"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</claim_name> Amount <amount blocknumber=""1"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</amount></li>
+<li>Claim <claim_name blocknumber=""1"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</claim_name> Amount <amount blocknumber=""1"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</amount></li>
+<li>Claim <claim_name blocknumber=""1"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</claim_name> Amount <amount blocknumber=""1"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</amount></li>
+</ul>
+<p><lob blocknumber=""2"" data-value=""LOB3""  score=""1.0"">LOB3</lob></p>
+<ul>
+<li>Claim <claim_name blocknumber=""2"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</claim_name> Amount <amount blocknumber=""2"" data-value=""1"" tabnumber=""0"" score=""1.0"">1</amount></li>
+<li>Claim <claim_name blocknumber=""2"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</claim_name> Amount <amount blocknumber=""2"" data-value=""2"" tabnumber=""1"" score=""1.0"">2</amount></li>
+<li>Claim <claim_name blocknumber=""2"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</claim_name> Amount <amount blocknumber=""2"" data-value=""3"" tabnumber=""2"" score=""1.0"">3</amount></li>
+</ul>
+<meta-manual-answer data-code=""blocks"" data-value=""[{&quot;lob&quot;:&quot;LOB1&quot;,&quot;claims&quot;:[{&quot;amount&quot;:&quot;1&quot;,&quot;claim_name&quot;:&quot;1&quot;},{&quot;amount&quot;:&quot;2&quot;,&quot;claim_name&quot;:&quot;2&quot;},{&quot;amount&quot;:&quot;3&quot;,&quot;claim_name&quot;:&quot;3&quot;}],&quot;loss_date&quot;:&quot;01/01/2018&quot;,&quot;company_name&quot;:&quot;Some company LLC&quot;},{&quot;lob&quot;:&quot;LOB2&quot;,&quot;claims&quot;:[{&quot;amount&quot;:&quot;1&quot;,&quot;claim_name&quot;:&quot;1&quot;},{&quot;amount&quot;:&quot;2&quot;,&quot;claim_name&quot;:&quot;2&quot;},{&quot;amount&quot;:&quot;3&quot;,&quot;claim_name&quot;:&quot;3&quot;}],&quot;loss_date&quot;:&quot;01/01/2018&quot;,&quot;company_name&quot;:&quot;Some company LLC&quot;},{&quot;lob&quot;:&quot;LOB3&quot;,&quot;claims&quot;:[{&quot;amount&quot;:&quot;1&quot;,&quot;claim_name&quot;:&quot;1&quot;},{&quot;amount&quot;:&quot;2&quot;,&quot;claim_name&quot;:&quot;2&quot;},{&quot;amount&quot;:&quot;3&quot;,&quot;claim_name&quot;:&quot;3&quot;}],&quot;loss_date&quot;:&quot;01/01/2018&quot;,&quot;company_name&quot;:&quot;Some company LLC&quot;}]"" score=""1.0""></meta-manual-answer>
+</html>","[
+  {
+    ""lob"": ""LOB1"",
+    ""company_name"": ""Some company LLC"",
+    ""loss_date"": ""01/01/2018"",
+    ""claims"": [
+      {
+        ""amount"": ""1"",
+        ""claim_name"": ""1""
+      },
+      {
+        ""amount"": ""2"",
+        ""claim_name"": ""2""
+      },
+      {
+        ""amount"": ""3"",
+        ""claim_name"": ""3""
+      }
+    ]
+  },
+  {
+    ""lob"": ""LOB2"",
+    ""company_name"": ""Some company LLC"",
+    ""loss_date"": ""01/01/2018"",
+    ""claims"": [
+      {
+        ""amount"": ""1"",
+        ""claim_name"": ""1""
+      },
+      {
+        ""amount"": ""2"",
+        ""claim_name"": ""2""
+      },
+      {
+        ""amount"": ""3"",
+        ""claim_name"": ""3""
+      }
+    ]
+  },
+  {
+    ""lob"": ""LOB3"",
+    ""company_name"": ""Some company LLC"",
+    ""loss_date"": ""01/01/2018"",
+    ""claims"": [
+      {
+        ""amount"": ""1"",
+        ""claim_name"": ""1""
+      },
+      {
+        ""amount"": ""2"",
+        ""claim_name"": ""2""
+      },
+      {
+        ""amount"": ""3"",
+        ""claim_name"": ""3""
+      }
+    ]
+  }
+]","","LOB3","","{""group"":[{""amount"":""1"",""claim_name"":""1""},{""amount"":""2"",""claim_name"":""2""},{""amount"":""3"",""claim_name"":""3""}]}","1","1","1 out of 1","1 out of 1","1 out of 1","1 out of 1","1 out of 1","1 out of 1","1 out of 1","1 out of 1","0%","0%","0%","0%","0%","0%","0%","0%","<html>
+<head>
+
+</head>
+<body>
+<p>This is Loss run</p>
+<p>Date: 01/01/2018</p>
+<p>Name: Some company LLC.</p>
+<p>LOB1</p>
+    <ul>
+        <li>Claim 1<br> Amount 1</li>
+        <li>Claim 2<br> Amount 2</li>
+        <li>Claim 3<br> Amount 3</li>
+    </ul>
+<p>LOB2</p>
+<ul>
+    <li>Claim 1 Amount 1</li>
+    <li>Claim 2 Amount 2</li>
+    <li>Claim 3 Amount 3</li>
+</ul>
+<p>LOB3</p>
+<ul>
+    <li>Claim 1 Amount 1</li>
+    <li>Claim 2 Amount 2</li>
+    <li>Claim 3 Amount 3</li>
+</ul>
+</body>
+</html>"
